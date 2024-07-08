@@ -5,11 +5,11 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - TaxPal',
-    default: 'TaxPal - Accounting made simple for small businesses',
+    template: '%s - Conquest Painting',
+    default: 'Conquest Painting - Your local Kelowna house painter',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    '25 years of experience in painting Okanagan homes. We shine in interior and exterior painting services.',
 }
 
 const inter = Inter({
