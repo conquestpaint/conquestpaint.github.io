@@ -69,7 +69,7 @@ const features = [
         'Ipsa in earum deserunt aut. Quos minus aut animi et soluta. Ipsum dicta ut quia eius. Possimus reprehenderit iste aspernatur ut est velit consequatur distinctio.',
   },
   {
-    name: 'Guaranteed Craftsmanship',
+    name: 'Quality Paints With Zero VOCs',
     description:
         'Ipsa in earum deserunt aut. Quos minus aut animi et soluta. Ipsum dicta ut quia eius. Possimus reprehenderit iste aspernatur ut est velit consequatur distinctio.',
   },
