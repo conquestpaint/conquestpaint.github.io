@@ -94,21 +94,21 @@ export function Hero() {
                            className="object-cover opacity-100"/>
                 </div>
             </li>
-            <li key="1" className="relative">
+            <li key="2" className="relative">
                 <div
                     className="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
                     <Image src={job2} alt=""
                          className="object-cover opacity-100"/>
                 </div>
             </li>
-            <li key="1" className="relative">
+            <li key="3" className="relative">
                 <div
                     className="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
                     <Image src={job3} alt=""
                          className="object-cover opacity-100"/>
                 </div>
             </li>
-            <li key="1" className="relative">
+            <li key="4" className="relative">
                 <div
                     className="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
                     <Image src={job5} alt=""

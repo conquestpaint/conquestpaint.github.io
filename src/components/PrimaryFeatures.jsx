@@ -118,7 +118,7 @@ export function PrimaryFeatures() {
             How can I help?
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Hi Im Terry. I am fully licensed and insured and have been providing residential and commcercial painting services in the Okanagan for over 20 years.
+            Hi Im Terry. I am a licensed and gst registered certified painter and have been providing residential and commercial painting services in the Okanagan for over 20 years.
           </p>
         </div>
         <dl className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-10 gap-y-5 text-base leading-7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">

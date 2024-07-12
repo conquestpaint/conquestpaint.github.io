@@ -98,6 +98,14 @@ export function Contact() {
     }
   }, [])
 
+  // use component did mount
+  useEffect(() => {
+    console.log('Component mounted')
+    const testId = document.getElementById('phone2');
+    testId.innerHTML = '&#x32;&#x35;&#x30;&#x2d;&#x38;&#x36;&#x39;&#x2d;&#x39;&#x38;&#x31;&#x39';
+  }, []);
+
+
   return (
     <section
       id="contact"
@@ -122,8 +130,8 @@ export function Contact() {
           </p>
         </div>
         <div className="p-5 m-10 max-w-xs mx-auto text-center bg-conquestThird rounded-2xl">
-          <h2 className="font-display text-3xl tracking-tight text-white">
-            250-869-9819
+          <h2 id='phone2' className="font-display text-3xl tracking-tight text-white">
+            250-869-####
           </h2>
         </div>
       </Container>
