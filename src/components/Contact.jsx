@@ -103,6 +103,8 @@ export function Contact() {
     console.log('Component mounted')
     const testId = document.getElementById('phone2');
     testId.innerHTML = '&#x32;&#x35;&#x30;&#x2d;&#x38;&#x36;&#x39;&#x2d;&#x39;&#x38;&#x31;&#x39';
+    const testId2 = document.getElementById('email2');
+    testId2.innerHTML = '&#99;&#111;&#110;&#113;&#117;&#101;&#115;&#116;&#112;&#97;&#105;&#110;&#116;&#105;&#110;&#103;&#49;&commat;&#103;&#109;&#97;&#105;&#108;&period;&#99;&#111;&#109;';
   }, []);
 
 
@@ -132,6 +134,12 @@ export function Contact() {
         <div className="p-5 m-10 max-w-xs mx-auto text-center bg-conquestThird rounded-2xl">
           <h2 id='phone2' className="font-display text-3xl tracking-tight text-white">
             250-869-####
+          </h2>
+        </div>
+
+        <div className="p-5 m-10 max-w-md mx-auto text-center bg-conquestThird rounded-2xl">
+          <h2 id='email2' className="font-display text-2xl tracking-tight text-white">
+            #################@gmail.com
           </h2>
         </div>
       </Container>
