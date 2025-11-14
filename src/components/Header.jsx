@@ -35,8 +35,8 @@ export function Header() {
       <Container>
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-0">
-            <Link href="#" aria-label="Home">
-              <Image src={HeaderLogo} alt="Voodoo AI" className="w-56 md:w-72" />
+            <Link href="/" aria-label="Home">
+              <Image src={HeaderLogo} alt="Conquest Painting" className="w-56 md:w-72" />
             </Link>
             {/*<div className="hidden md:flex md:gap-x-6">*/}
             {/*  <NavLink href="#features">Features</NavLink>*/}

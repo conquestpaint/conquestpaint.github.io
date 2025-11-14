@@ -6,9 +6,22 @@ import { NavLink } from '@/components/NavLink'
 
 export function Footer() {
   return (
-    // <footer className="bg-slate-50">
-      <footer className="bg-white">
+    <footer className="bg-white">
       <Container>
+        <div className="py-10">
+          <nav className="text-sm" aria-label="Locations">
+            <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
+              <NavLink href="/vernon">Vernon</NavLink>
+              <NavLink href="/lake-country">Lake Country</NavLink>
+              <NavLink href="/kelowna">Kelowna</NavLink>
+              <NavLink href="/west-kelowna">West Kelowna</NavLink>
+              <NavLink href="/westbank">Westbank</NavLink>
+              <NavLink href="/peachland">Peachland</NavLink>
+              <NavLink href="/summerland">Summerland</NavLink>
+              <NavLink href="/penticton">Penticton</NavLink>
+            </div>
+          </nav>
+        </div>
         {/*<div className="py-16">*/}
         {/*  <Logo className="mx-auto h-10 w-auto" />*/}
         {/*  <nav className="mt-10 text-sm" aria-label="quick links">*/}
@@ -19,7 +32,7 @@ export function Footer() {
         {/*    </div>*/}
         {/*  </nav>*/}
         {/*</div>*/}
-        <div className="flex flex-col items-center border-t border-slate-400/10 py-10 sm:flex-row-reverse sm:justify-between">
+        <div className="flex flex-col items-center border-t border-slate-400/10 py-6 sm:flex-row-reverse sm:justify-between">
           {/*<div className="flex gap-x-6">*/}
           {/*  <Link href="#" className="group" aria-label="TaxPal on X">*/}
           {/*    <svg*/}
