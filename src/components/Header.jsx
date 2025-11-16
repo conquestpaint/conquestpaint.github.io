@@ -73,7 +73,7 @@ export function Header() {
               <p id='email1' className="text-sm sm:text-base truncate">#################@gmail.com</p>
             </div>
             
-            <Button href="#contact" className="bg-conquestPrimary w-auto text-center mt-1 sm:mt-0 text-sm sm:text-base px-3 py-1.5 sm:px-4 sm:py-2">
+            <Button href="/#contact" className="bg-conquestPrimary w-auto text-center mt-1 sm:mt-0 text-sm sm:text-base px-3 py-1.5 sm:px-4 sm:py-2">
               <span className="whitespace-nowrap">
                 Get a quote <span className="hidden lg:inline">now</span>
               </span>
