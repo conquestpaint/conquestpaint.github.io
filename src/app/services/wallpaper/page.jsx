@@ -31,7 +31,7 @@ export default function Wallpaper() {
               />
             </div>
             <p className="text-lg text-slate-600">
-              Wallpaper can add personality, texture, and style to any room, and Conquest Paint offers professional wallpaper installation and removal services to help you achieve a flawless finish. Whether you’re updating your home with modern patterns or removing old wallpaper to prepare for fresh paint, our team delivers clean, precise, and long-lasting results.
+              Wallpaper can add personality, texture, and style to any room, and Conquest Paint offers professional wallpaper installation and removal services to help you achieve a flawless finish. Whether you`&apos;re updating your home with modern patterns or removing old wallpaper to prepare for fresh paint, our team delivers clean, precise, and long-lasting results.
 <br/><br/>
               We work with all types of wallpaper, including vinyl, peel-and-stick, traditional paste-applied, textured designs, murals, and specialty prints. For installation, we carefully measure, cut, and align each panel to ensure perfect seams and a smooth, bubble-free appearance. Our attention to detail ensures patterns match seamlessly, giving your walls a polished, designer-quality look.
               <br/><br/>
@@ -39,7 +39,7 @@ export default function Wallpaper() {
               <br/><br/>
               At Conquest Paint, we understand that wallpaper work can be messy and time-consuming, which is why we prioritize cleanliness and efficiency. We protect your home, communicate clearly, and provide honest, straightforward pricing with no surprises.
               <br/><br/>
-              Whether you're adding a feature wall or refreshing an entire home, Conquest Paint is here to help. Contact us today for a free estimate and experience professional wallpaper services done right.
+              Whether you`&apos;re adding a feature wall or refreshing an entire home, Conquest Paint is here to help. Contact us today for a free estimate and experience professional wallpaper services done right.
             </p>
           </div>
         </Container>

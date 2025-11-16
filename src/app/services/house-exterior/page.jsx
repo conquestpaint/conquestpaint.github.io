@@ -35,11 +35,11 @@ export default function HouseExterior() {
 <br/><br/>
               Our exterior painting services include full-house repaints, siding and trim coatings, fascia and soffit painting, deck and fence staining, exterior wood restoration, and surface preparation such as sanding, caulking, and minor repairs. We work with premium, eco-friendly paints engineered for durability, fade resistance, and long-term performance.
               <br/><br/>
-              Every project begins with a thorough assessment of your home’s exterior. Our team identifies any problem areas, prepares surfaces properly, and applies paint using proven techniques that deliver smooth, even coverage. Whether your home features stucco, wood, Hardie board, vinyl, or brick accents, we have the experience to achieve flawless results.
+              Every project begins with a thorough assessment of your home`&apos;s exterior. Our team identifies any problem areas, prepares surfaces properly, and applies paint using proven techniques that deliver smooth, even coverage. Whether your home features stucco, wood, Hardie board, vinyl, or brick accents, we have the experience to achieve flawless results.
               <br/><br/>
               At Conquest Paint, we prioritize professionalism and communication. We maintain a clean jobsite, respect your property, and keep you informed from start to finish. Our process is efficient, transparent, and focused on delivering a finish that stands the test of time.
               <br/><br/>
-              If you're ready to refresh your home's exterior, Conquest Paint is here to help. Contact us today for a free estimate and discover how high-quality exterior painting can transform and protect your home.
+              If you`&apos;re ready to refresh your home`&apos;s exterior, Conquest Paint is here to help. Contact us today for a free estimate and discover how high-quality exterior painting can transform and protect your home.
             </p>
           </div>
         </Container>

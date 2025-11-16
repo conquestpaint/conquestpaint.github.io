@@ -34,7 +34,7 @@ export default function HouseInterior() {
               />
             </div>
             <p className="text-lg text-slate-600">
-              A fresh, well-painted interior can completely transform the feel of your home. At Conquest Paint, we specialize in professional interior house painting that brings comfort, style, and renewed energy to every room. Whether you’re updating a single space or refreshing your entire home, our team delivers clean, modern, and long-lasting results.
+              A fresh, well-painted interior can completely transform the feel of your home. At Conquest Paint, we specialize in professional interior house painting that brings comfort, style, and renewed energy to every room. Whether you`&apos;re updating a single space or refreshing your entire home, our team delivers clean, modern, and long-lasting results.
 <br/><br/>
               We provide a full range of interior painting services, including wall and ceiling painting, trim and door refinishing, feature walls, cabinet painting, drywall patching, texture repairs, and full prep work. Using high-quality, low-VOC paints, we ensure a smooth finish that’s safe for your family and designed to stand up to everyday living.
               <br/><br/>
@@ -42,7 +42,7 @@ export default function HouseInterior() {
               <br/><br/>
               At Conquest Paint, we understand the importance of professionalism inside your home. We maintain a tidy workspace, work around your schedule, and treat your property with the highest level of care. Communication is clear and consistent, and our pricing is honest with no unexpected costs.
               <br/><br/>
-              If you're ready to refresh your home’s interior, Conquest Paint is the trusted choice. Contact us today for a free estimate and let us help bring your vision to life.
+              If you`&apos;re ready to refresh your home`&apos;s interior, Conquest Paint is the trusted choice. Contact us today for a free estimate and let us help bring your vision to life.
             </p>
           </div>
         </Container>
