@@ -6,19 +6,27 @@ import { NavLink } from '@/components/NavLink'
 
 export function Footer() {
   return (
-    <footer className="bg-white">
+    <footer className="bg-white border-t border-slate-100">
       <Container>
-        <div className="py-10">
-          <nav className="text-sm" aria-label="Locations">
-            <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
-              <NavLink href="/vernon">Vernon</NavLink>
-              <NavLink href="/lake-country">Lake Country</NavLink>
-              <NavLink href="/kelowna">Kelowna</NavLink>
-              <NavLink href="/west-kelowna">West Kelowna</NavLink>
-              <NavLink href="/westbank">Westbank</NavLink>
-              <NavLink href="/peachland">Peachland</NavLink>
-              <NavLink href="/summerland">Summerland</NavLink>
-              <NavLink href="/penticton">Penticton</NavLink>
+        <div className="py-5">
+          <nav className="text-xs" aria-label="Locations">
+            <div className="flex flex-wrap justify-center gap-x-4 gap-y-1">
+              <NavLink href="/locations/vernon" className="text-slate-500 hover:text-slate-700">Vernon Painter</NavLink>
+              <NavLink href="/locations/lake-country" className="text-slate-500 hover:text-slate-700">Lake Country Painting</NavLink>
+              <NavLink href="/locations/kelowna" className="text-slate-500 hover:text-slate-700">Kelowna Painting</NavLink>
+              <NavLink href="/locations/west-kelowna" className="text-slate-500 hover:text-slate-700">West Kelowna Painter</NavLink>
+              <NavLink href="/locations/westbank" className="text-slate-500 hover:text-slate-700">Westbank Painter</NavLink>
+              <NavLink href="/locations/peachland" className="text-slate-500 hover:text-slate-700">Peachland Painter</NavLink>
+              <NavLink href="/locations/summerland" className="text-slate-500 hover:text-slate-700">Summerland Painting</NavLink>
+              <NavLink href="/locations/penticton" className="text-slate-500 hover:text-slate-700">Penticton Painter</NavLink>
+              <NavLink href="/services/house-interior" className="text-slate-500 hover:text-slate-700">Interior Painting</NavLink>
+              <NavLink href="/services/house-exterior" className="text-slate-500 hover:text-slate-700">Exterior Painting</NavLink>
+              <NavLink href="/services/cabinets" className="text-slate-500 hover:text-slate-700">Cabinet Painting</NavLink>
+              <NavLink href="/services/wallpaper" className="text-slate-500 hover:text-slate-700">Wallpaper</NavLink>
+              <NavLink href="/services/ceilings" className="text-slate-500 hover:text-slate-700">Ceiling Painting</NavLink>
+              <NavLink href="/services/railings" className="text-slate-500 hover:text-slate-700">Railing Painting</NavLink>
+              <NavLink href="/services/drywall" className="text-slate-500 hover:text-slate-700">Drywall</NavLink>
+              <NavLink href="/services/fences" className="text-slate-500 hover:text-slate-700">Fence Painting</NavLink>
             </div>
           </nav>
         </div>
